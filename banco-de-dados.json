@@ -1,0 +1,704 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "categoria": "restaurante",
+      "titulo": "Super Burger",
+      "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+      "anunciante": "Original Burger",
+      "valor": 29.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/1/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/1/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "restaurante",
+      "titulo": "Cozinha Mexicana",
+      "descricao_oferta": "Almoço ou Jantar com Rodízio Mexicano delicioso.",
+      "anunciante": "Mexicana",
+      "valor": 32.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/2/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/2/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "restaurante",
+      "titulo": "Pizzas Grandes",
+      "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
+      "anunciante": "Nossa Pizza",
+      "valor": 21.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/3/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/3/img4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "diversao",
+      "titulo": "Estância das águas",
+      "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+      "anunciante": "Estância das águas",
+      "valor": 31.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/4/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img2.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img3.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img4.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img5.jpg"
+        },
+        {
+          "url": "/assets/ofertas/4/img6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "diversao",
+      "titulo": "Kart",
+      "descricao_oferta": "Bateria de Kart de 30 minutos.",
+      "anunciante": "Speed Kart",
+      "valor": 54.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/5/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/5/img2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "categoria": "diversao",
+      "titulo": "Academia de tiro",
+      "descricao_oferta": "Sessão de tiro dinâmico com Instrutor, Estande, Alvo e Equipamentos.",
+      "anunciante": "Academia de Tiro",
+      "valor": 89.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/6/img1.jpg"
+        },
+        {
+          "url": "/assets/ofertas/6/img2.jpg"
+        }
+      ]
+    }
+  ],
+  "como-usar": [
+    {
+      "id": 1,
+      "descricao": "Não é necessário agendar"
+    },
+    {
+      "id": 2,
+      "descricao": "Válido de segunda a quinta das 12h as 23h"
+    },
+    {
+      "id": 3,
+      "descricao": "Não é necessário agendar"
+    },
+    {
+      "id": 4,
+      "descricao": "Necessário agendar com no mínimo 48 horas de antecedência"
+    },
+    {
+      "id": 5,
+      "descricao": "Válido de segunda a sábado das 12h as 23h. Necessário agendamento prévio"
+    },
+    {
+      "id": 6,
+      "descricao": "Não é necessário agendar. Sujeito à fila."
+    }
+  ],
+  "onde-fica": [
+    {
+      "id": 1,
+      "descricao": "Avenida João da Silva, 255, São Paulo - SP"
+    },
+    {
+      "id": 2,
+      "descricao": "Rua Francisco Mendes, 1000, Rio de Janeiro - SP "
+    },
+    {
+      "id": 3,
+      "descricao": "Avenida Lúcio Rodrigues Alves, 33, Fortaleza - CE"
+    },
+    {
+      "id": 4,
+      "descricao": "Avenida José de Oliveira, 550, Campo Grande - MS"
+    },
+    {
+      "id": 5,
+      "descricao": "Avenida Júlia Abrão, 77, São Paulo - SP"
+    },
+    {
+      "id": 6,
+      "descricao": "Estrada Maria das Graças, 12, Salvador - BA "
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "endereco": "kkkk",
+      "numero": "lll",
+      "complemento": "kk",
+      "formaPagamento": "dinheiro",
+      "id": 33
+    },
+    {
+      "endereco": "kkkll",
+      "numero": "çççç",
+      "complemento": "ç~ççç",
+      "formaPagamento": "dinheiro",
+      "id": 34
+    },
+    {
+      "endereco": "ruajjj",
+      "numero": "number",
+      "complemento": "fff",
+      "formaPagamento": "dinheiro",
+      "id": 35
+    },
+    {
+      "endereco": "mmmmmmm",
+      "numero": "mmmm",
+      "complemento": ",,,,",
+      "formaPagamento": "debito",
+      "id": 36
+    },
+    {
+      "endereco": "mmmm",
+      "numero": "m",
+      "complemento": "m",
+      "formaPagamento": "debito",
+      "id": 37
+    },
+    {
+      "endereco": "jjj,",
+      "numero": "m",
+      "complemento": "k",
+      "formaPagamento": "dinheiro",
+      "id": 38
+    },
+    {
+      "endereco": "dddd",
+      "numero": "dd",
+      "complemento": "ddd",
+      "formaPagamento": "dinheiro",
+      "id": 39
+    },
+    {
+      "endereco": "lllll",
+      "numero": "çç",
+      "complemento": "çç",
+      "formaPagamento": "dinheiro",
+      "id": 40
+    },
+    {
+      "endereco": "lllçç",
+      "numero": "çççç",
+      "complemento": "ççç",
+      "formaPagamento": "dinheiro",
+      "id": 41
+    },
+    {
+      "endereco": "llllll",
+      "numero": "lll",
+      "complemento": "ll",
+      "formaPagamento": "dinheiro",
+      "id": 42
+    },
+    {
+      "endereco": "rua sao",
+      "numero": "kkk",
+      "complemento": "lll",
+      "formaPagamento": "dinheiro",
+      "id": 43
+    },
+    {
+      "endereco": "jffhld",
+      "numero": "posjçasj",
+      "complemento": "~çojdçjasd",
+      "formaPagamento": "dinheiro",
+      "id": 44
+    },
+    {
+      "endereco": "kkkkk",
+      "numero": "kkkk",
+      "complemento": "kkk",
+      "formaPagamento": "dinheiro",
+      "id": 45
+    },
+    {
+      "endereco": "çççç",
+      "numero": "çççç",
+      "complemento": "çççç",
+      "formaPagamento": "dinheiro",
+      "id": 46
+    },
+    {
+      "endereco": "lllç",
+      "numero": "lçlll",
+      "complemento": "lll",
+      "formaPagamento": "dinheiro",
+      "id": 47
+    },
+    {
+      "endereco": "lllll",
+      "numero": "ççç",
+      "complemento": "çççç",
+      "formaPagamento": "dinheiro",
+      "id": 48
+    },
+    {
+      "endereco": "lllll",
+      "numero": "llll",
+      "complemento": "çç",
+      "formaPagamento": "dinheiro",
+      "id": 49
+    },
+    {
+      "endereco": "lllll",
+      "numero": "lll",
+      "complemento": "ll",
+      "formaPagamento": "debito",
+      "id": 50
+    },
+    {
+      "endereco": "lllll",
+      "numero": "lççç",
+      "complemento": "lçl",
+      "formaPagamento": "dinheiro",
+      "id": 51
+    },
+    {
+      "endereco": "rua são fidelis ",
+      "numero": "540",
+      "complemento": "casa2",
+      "formaPagamento": "dinheiro",
+      "id": 52
+    },
+    {
+      "endereco": "rua sao fidelis ",
+      "numero": "540",
+      "complemento": "hh",
+      "id": 53
+    },
+    {
+      "endereco": "rua sao fidelis ",
+      "numero": "540",
+      "complemento": "hh",
+      "id": 54
+    },
+    {
+      "endereco": "mjmmm",
+      "numero": "mmm",
+      "complemento": "mmm",
+      "formaPagamento": "dinheiro",
+      "id": 55
+    },
+    {
+      "endereco": ",,,,,,,",
+      "numero": "l,l,",
+      "complemento": "lllll",
+      "formaPagamento": "dinheiro",
+      "id": 56
+    },
+    {
+      "endereco": "nhsdnshjshs",
+      "numero": "jdjdjdj",
+      "complemento": "jkdjdjd",
+      "formaPagamento": "dinheiro",
+      "id": 57
+    },
+    {
+      "endereco": "ksksks",
+      "numero": "kkldkd",
+      "complemento": "ldld",
+      "formaPagamento": "dinheiro",
+      "id": 58
+    },
+    {
+      "endereco": "llllll",
+      "numero": ",,,,",
+      "complemento": ",,,,,",
+      "formaPagamento": "dinheiro",
+      "id": 59
+    },
+    {
+      "endereco": "mmmm,,",
+      "numero": ",,,,",
+      "complemento": ",,",
+      "formaPagamento": "dinheiro",
+      "id": 60
+    },
+    {
+      "endereco": "mmmmmm",
+      "numero": "m,mmm",
+      "complemento": "m,mm",
+      "formaPagamento": "debito",
+      "id": 61
+    },
+    {
+      "endereco": "kkkkk",
+      "numero": "lllll",
+      "complemento": ",,,,",
+      "formaPagamento": "dinheiro",
+      "id": 62
+    },
+    {
+      "endereco": ",,,,,,",
+      "numero": ",,,,,",
+      "complemento": ",,,,",
+      "formaPagamento": "dinheiro",
+      "id": 63
+    },
+    {
+      "endereco": "llllll",
+      "numero": "lll",
+      "complemento": "lll",
+      "formaPagamento": "dinheiro",
+      "id": 64
+    },
+    {
+      "endereco": "kkkkk",
+      "numero": "ll",
+      "complemento": "çç",
+      "formaPagamento": "dinheiro",
+      "id": 65
+    },
+    {
+      "endereco": "wqeqe",
+      "numero": "lll",
+      "complemento": "´ççç",
+      "formaPagamento": "dinheiro",
+      "id": 66
+    },
+    {
+      "endereco": ",,,,,",
+      "numero": ",,,",
+      "complemento": ",,,,",
+      "formaPagamento": "dinheiro",
+      "id": 67
+    },
+    {
+      "endereco": "llllll",
+      "numero": "ççç",
+      "complemento": "ç",
+      "formaPagamento": "dinheiro",
+      "id": 68
+    },
+    {
+      "endereco": "ddd",
+      "numero": "ddd",
+      "complemento": "dd",
+      "formaPagamento": "dinheiro",
+      "id": 69
+    },
+    {
+      "endereco": "klll",
+      "numero": "çç",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 70
+    },
+    {
+      "endereco": "lllll",
+      "numero": "ççç",
+      "complemento": "çççç",
+      "formaPagamento": "dinheiro",
+      "id": 71
+    },
+    {
+      "endereco": "llll",
+      "numero": "çç",
+      "complemento": "çç",
+      "formaPagamento": "dinheiro",
+      "id": 72
+    },
+    {
+      "endereco": "llll",
+      "numero": "ll",
+      "complemento": "lll",
+      "formaPagamento": "dinheiro",
+      "id": 73
+    },
+    {
+      "endereco": "ooooo",
+      "numero": "pp",
+      "complemento": "pp",
+      "formaPagamento": "dinheiro",
+      "id": 74
+    },
+    {
+      "endereco": "ooooo",
+      "numero": "pp",
+      "complemento": "pp",
+      "formaPagamento": "dinheiro",
+      "id": 75
+    },
+    {
+      "endereco": "llll",
+      "numero": "lll",
+      "complemento": "lll",
+      "formaPagamento": "dinheiro",
+      "id": 76
+    },
+    {
+      "endereco": "kkkk",
+      "numero": "kkkk",
+      "complemento": "kkk",
+      "formaPagamento": "dinheiro",
+      "id": 77
+    },
+    {
+      "endereco": "kkkkkkk",
+      "numero": "kk",
+      "complemento": "kkk",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 1
+        },
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 2
+        }
+      ],
+      "id": 78
+    },
+    {
+      "endereco": "lllllllll",
+      "numero": "lll",
+      "complemento": "llll",
+      "formaPagamento": "debito",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 2
+        }
+      ],
+      "id": 79
+    },
+    {
+      "endereco": "olaaaa",
+      "numero": "jj",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 80
+    },
+    {
+      "endereco": "kkkkkkk",
+      "numero": "kk",
+      "complemento": "k",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 2
+        }
+      ],
+      "id": 81
+    },
+    {
+      "endereco": "lllll",
+      "numero": "çç",
+      "complemento": null,
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 82
+    }
+  ]
+}

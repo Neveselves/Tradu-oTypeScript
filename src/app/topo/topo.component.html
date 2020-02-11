@@ -1,0 +1,53 @@
+<div class="fixed">
+  <nav class="navbar navbar-light bg-faded">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+            <a href="#" class="navbar-brand">
+                <img src="/assets/logo.png"   routerLink=''/>
+              </a>
+        </div>
+        <!--aqui pode-se usar tamebm o termo de ($event) para recuperar os dados-->
+        <div class="col-md-6">
+          
+          <input  #termodabusca (keyup)="pesquisa(termodabusca.value)" 
+          type="text"  
+          class="from-control caixa" 
+          placeholder=" pesquise por ofertas..."/>
+
+          <ul class="list-group lista">
+            <li class="list-group-item" *ngFor="let listaPesquisa of ofertas2">
+              <a  [routerLink]="['/oferta',listaPesquisa.id] " (click)="limpa()"> {{listaPesquisa.titulo | descricaoReduzida:17 }}</a>             
+            </li>           
+          </ul>
+          
+        </div>
+        <div class="col-md-2">
+            <a a routerLink="/ordem-compra">
+              <img src="/assets/carrinho.png"> 
+              <span class="badge badge-warning badge-pill">{{carrinhoService.exibirItens().length}}</span> 
+            </a>
+        </div>
+      </div>
+      
+     
+    </div>
+  </nav>
+
+  <div class="menu">
+    <div class="container">
+      <ul class="nav">
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive="active" routerLink='/restaurantes'>Restaurantes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link"  routerLinkActive="active" routerLink='/diversao'>Diversão</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="banner">
+  <img src="/assets/banners/img_1.jpg" />
+</div>
